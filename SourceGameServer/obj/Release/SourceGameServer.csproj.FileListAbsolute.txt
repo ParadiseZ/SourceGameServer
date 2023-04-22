@@ -1,0 +1,15 @@
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\bin\Release\SourceGameServer.exe.config
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\bin\Release\SourceGameServer.exe
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\bin\Release\SourceGameServer.pdb
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\bin\Release\CsvTextFieldParser.dll
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\bin\Release\Newtonsoft.Json.dll
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\bin\Release\CsvTextFieldParser.xml
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\bin\Release\Newtonsoft.Json.xml
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.csproj.AssemblyReference.cache
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.csproj.SuggestedBindingRedirects.cache
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.Properties.Resources.resources
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.csproj.GenerateResource.cache
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.csproj.CoreCompileInputs.cache
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.csproj.CopyComplete
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.exe
+E:\Databases\PROJECT\VS\SourceGameServer\SourceGameServer\obj\Release\SourceGameServer.pdb
